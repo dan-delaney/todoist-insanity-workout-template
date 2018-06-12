@@ -19,5 +19,5 @@ This template will create a full 63-day schedule for your Beachbody INSANITY wor
 
 ## Copyright
 
-_INSANITY is, and remains Copyright :copyright: Beachbody, LLC_
-_Todoist is Copyright :copyright: Doist Ltd_
+* _INSANITY is, and remains Copyright :copyright: Beachbody, LLC_
+* _Todoist is Copyright :copyright: Doist Ltd_
